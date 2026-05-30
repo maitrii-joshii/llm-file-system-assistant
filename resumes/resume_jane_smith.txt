@@ -1,0 +1,17 @@
+Jane Smith
+Email: jane.smith@example.com
+Phone: 555-0102
+Location: Seattle, WA
+
+Summary
+Data analyst with strong SQL skills and experience using Python for analytics.
+
+Skills
+SQL, Python, Pandas, Tableau, Excel
+
+Experience
+- Data Analyst, Northwind (2020-2024)
+  Built dashboards and automated weekly reporting with Python.
+
+Education
+M.S. in Data Analytics, University of Washington

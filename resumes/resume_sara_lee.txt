@@ -1,0 +1,17 @@
+Sara Lee
+Email: sara.lee@example.com
+Phone: 555-0104
+Location: Toronto, CA
+
+Summary
+QA engineer focused on automation and reliability testing.
+
+Skills
+Selenium, Playwright, CI/CD, GitHub Actions
+
+Experience
+- QA Engineer, Maple Tech (2021-2024)
+  Built test automation suites and improved coverage by 40%.
+
+Education
+B.Sc. in Software Engineering, University of Toronto

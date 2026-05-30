@@ -1,0 +1,17 @@
+Maria Garcia
+Email: maria.garcia@example.com
+Phone: 555-0105
+Location: Miami, FL
+
+Summary
+Product-minded engineer with experience in APIs and integrations.
+
+Skills
+Python, Django, REST, PostgreSQL, Redis
+
+Experience
+- Software Engineer, Coral Apps (2020-2024)
+  Designed Django services and API integrations.
+
+Education
+B.S. in Computer Engineering, FIU

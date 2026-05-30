@@ -1,0 +1,19 @@
+Amit Kumar
+Email: amit.kumar@example.com
+Phone: 555-0103
+Location: Bengaluru, IN
+
+Summary
+Full-stack developer experienced in web apps and cloud deployments.
+
+Skills
+JavaScript, Node.js, React, Python, GCP
+
+Experience
+- Full-Stack Developer, SkyLabs (2022-2024)
+  Built internal tools and APIs; used Python for automation scripts.
+- Software Engineer, Vertex (2019-2022)
+  Developed React interfaces and Node services.
+
+Education
+B.Tech in Information Technology, NITK

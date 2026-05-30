@@ -1,0 +1,17 @@
+Chen Wang
+Email: chen.wang@example.com
+Phone: 555-0106
+Location: San Jose, CA
+
+Summary
+ML engineer working on model deployment and MLOps pipelines.
+
+Skills
+Python, TensorFlow, Docker, Kubernetes, Airflow
+
+Experience
+- ML Engineer, Nova AI (2022-2024)
+  Built model serving pipelines and monitoring dashboards.
+
+Education
+M.S. in Computer Science, Stanford University
